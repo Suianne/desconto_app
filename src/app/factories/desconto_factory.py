@@ -1,4 +1,4 @@
-from src.app.entities.desconto import DescontoNormal, DescontoPremium, DescontoVIP
+from src.app.entities.desconto import DescontoNormal, DescontoPremium, DescontoVIP, IDesconto
 
 class DescontoFactory:
     descontos = {
